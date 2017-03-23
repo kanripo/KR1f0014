@@ -1,78 +1,70 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 15
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 16
 
+# src: ZHONGJING 16.1
+# dating: 4100
 ** 證應章第十六
-<pb:KR1f0014_CHANT_016-1a>¶
 惟天監人，¶
 善惡必應。¶
-
-
 鄭玄註：¶
 為善則吉，¶
 為惡則凶。¶
 
-
+# src: ZHONGJING 16.2
+# dating: 4100
 善莫大於作忠。¶
-
-<pb:KR1f0014_CHANT_016-2a>¶
 鄭玄註：¶
 百行大善，¶
 無忠皆忘。¶
-
-
 惡莫大於不忠。¶
-
-
 鄭玄註：¶
 大惡之惡，¶
-為逆者殃。¶
+¶為逆者殃。¶
 
-<pb:KR1f0014_CHANT_016-3a>¶
+# src: ZHONGJING 16.3
+# dating: 4100
 忠則福祿至焉，¶
 不忠則刑罰加焉。¶
-
-
 鄭玄註：¶
 忠則言播聞，¶
 未有不祿。¶
 不忠則不忠彰兆，¶
-未有不刑。¶
+¶未有不刑。¶
 
-<pb:KR1f0014_CHANT_016-4a>¶
+# src: ZHONGJING 16.4
+# dating: 4100
 君子守道，¶
 所以長守其休。¶
 小人不常，¶
 所以自陷其咎。¶
-
-
 鄭玄註：¶
 天意本休，¶
 君子知而順之。¶
 天意無咎，¶
-小人求而取之。¶
+¶小人求而取之。¶
 
-<pb:KR1f0014_CHANT_016-5a>¶
+# src: ZHONGJING 16.5
+# dating: 4100
 休咎之徵也，¶
 不亦明哉！¶
-
-
 鄭玄註：¶
 天監孔明，¶
 勿謂茫昧。¶
 
-
+# src: ZHONGJING 16.6
+# dating: 4100
 《書》云：¶
 「作善降之百祥，¶
-作不善降之百殃。」¶
-
-<pb:KR1f0014_CHANT_016-6a>¶
+¶作不善降之百殃。」¶
 鄭玄註：¶
 禍福無門，¶
 惟人自召。¶

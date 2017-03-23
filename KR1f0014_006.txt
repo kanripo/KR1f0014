@@ -1,56 +1,55 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 5
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 6
 
+
+# src: ZHONGJING 6.1
+# dating: 4100
 ** 兆人章第六
-<pb:KR1f0014_CHANT_006-1a>¶
-天地泰寧，¶
+¶天地泰寧，¶
 君之德也。¶
-
-
 鄭玄註：¶
 天地設位，¶
 秉御有君。¶
 非君泰寧，¶
-人必跼蹐。¶
+¶人必跼蹐。¶
 
-<pb:KR1f0014_CHANT_006-2a>¶
+# src: ZHONGJING 6.2
+# dating: 4100
 君德昭明，¶
 則陰陽風雨以和，¶
 人賴之而生也。¶
-
-
 鄭玄註：¶
 四氣和順，¶
 百穀用成，¶
 是以為休徵。¶
 故人之生，¶
-賴成於君也。¶
+¶賴成於君也。¶
 
-<pb:KR1f0014_CHANT_006-3a>¶
+# src: ZHONGJING 6.3
+# dating: 4100
 是故祗承君之法度，¶
 行孝悌於其家，¶
 服勤稼穡以供王賦，¶
 此兆人之忠也。¶
-
-
 鄭玄註：¶
 順化供養，¶
 勤勞奉國，¶
-是則為忠。¶
+¶是則為忠。¶
 
-<pb:KR1f0014_CHANT_006-4a>¶
+# src: ZHONGJING 6.4
+# dating: 4100
 《書》云：¶
 「一人元良，¶
 萬邦以貞。」¶
-
-
 鄭玄註：¶
 一人以大善撫萬國，¶
 萬國以忠貞戴一人矣。¶

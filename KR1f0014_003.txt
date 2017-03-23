@@ -1,75 +1,71 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 2
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 3
 
+# src: ZHONGJING 3.1
+# dating: 4100
 ** 冢臣章第三
-<pb:KR1f0014_CHANT_003-1a>¶
 為臣事君，¶
 忠之本也。¶
 本立而後化成。¶
-
-
 鄭玄註：¶
 雖有周、孔之才，¶
 必以忠為本也。¶
 
-
+# src: ZHONGJING 3.2
+# dating: 4100
 冢臣於君，¶
 可謂一體。¶
 下行而上信，¶
 故能成其忠。¶
-
-<pb:KR1f0014_CHANT_003-2a>¶
 鄭玄註：¶
 股肱動於下，¶
 元首隨於上，¶
 以其義同，¶
 其心不異。¶
 
-
+# src: ZHONGJING 3.3
+# dating: 4100
 夫忠者，¶
 豈惟奉君忘身，¶
 狥國忘家，¶
 正色直辭，¶
 臨難死節已矣。¶
-
-<pb:KR1f0014_CHANT_003-3a>¶
 鄭玄註：¶
 此皆忠之常道，¶
 固所常行，¶
 未盡冢宰之事。¶
 
-
+# src: ZHONGJING 3.4
+# dating: 4100
 在乎沉謀潛運，¶
 正國安人。¶
-
-
 鄭玄註：¶
 至忠無迹，¶
 誠在沉潛。¶
 
-<pb:KR1f0014_CHANT_003-4a>¶
+# src: ZHONGJING 3.5
+# dating: 4100
 任賢以為理，¶
 端委而自化。¶
-
-
 鄭玄註：¶
 官各得人，¶
 何事之有？¶
 
-
+# src: ZHONGJING 3.6
+# dating: 4100
 尊其君有天地之大，¶
 日月之明，¶
 陰陽之和，¶
 四時之信。¶
-
-<pb:KR1f0014_CHANT_003-5a>¶
 鄭玄註：¶
 蓋之如天，¶
 容之如地，¶
@@ -79,22 +75,20 @@
 若是，¶
 君體用盡矣。¶
 
-
+# src: ZHONGJING 3.7
+# dating: 4100
 聖德洋溢，¶
 頌聲作焉。¶
-
-<pb:KR1f0014_CHANT_003-6a>¶
 鄭玄註：¶
 樂之於中，¶
 和之於外。¶
 
-
+# src: ZHONGJING 3.8
+# dating: 4100
 《書》云：¶
 「元首明哉！¶
 股肱良哉！¶
 庶事康哉！」¶
-
-<pb:KR1f0014_CHANT_003-7a>¶
 鄭玄註：¶
 君明則臣良，¶
 臣良則事康。¶

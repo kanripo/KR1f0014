@@ -1,33 +1,34 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 4
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 5
 
+
+# src: ZHONGJING 5.1
+# dating: 4100
 ** 守宰章第五
-<pb:KR1f0014_CHANT_005-1a>¶
-在官惟明，¶
+¶在官惟明，¶
 蒞事惟平，¶
 立身惟清。¶
-
-
 鄭玄註：¶
 官不明則事多欺，¶
 事不平則怨難弭，¶
-身不清則何以教民？¶
+¶身不清則何以教民？¶
 
-<pb:KR1f0014_CHANT_005-2a>¶
+# src: ZHONGJING 5.2
+# dating: 4100
 清則無欲，¶
 平則不曲，¶
 明能正俗。¶
 三者備矣，¶
 然後可以理人。¶
-
-
 鄭玄註：¶
 獨清則謹己而已，¶
 不建於事。¶
@@ -35,95 +36,73 @@
 奸賄難任。¶
 獨平則徒均於物，¶
 昧獨無堪。¶
-夫理人者、必三備而後可也。¶
+¶夫理人者、必三備而後可也。¶
 
-<pb:KR1f0014_CHANT_005-3a>¶
+# src: ZHONGJING 5.3
+# dating: 4100
 君子盡其忠能以行其政令，¶
 而不理者，¶
 未之聞也。¶
-
-
 鄭玄註：¶
 既才且忠，¶
 以臨其人，¶
 政之理也，¶
-固其必然。¶
+¶固其必然。¶
 
-<pb:KR1f0014_CHANT_005-4a>¶
+# src: ZHONGJING 5.4
+# dating: 4100
 夫人莫不欲安，¶
 君子順而安之。¶
-
-
 鄭玄註：¶
 用其情而處之。¶
 
-
+# src: ZHONGJING 5.5
+# dating: 4100
 莫不欲富，¶
 君子教而富之。¶
-
-<pb:KR1f0014_CHANT_005-5a>¶
 鄭玄註：¶
 因其利而勸之。¶
-
-
-篤之以仁義，¶
+-篤之以仁義，¶
 以固其心。¶
-
-
 鄭玄註：¶
 知仁與義，¶
-則皆就之。¶
-
-<pb:KR1f0014_CHANT_005-6a>¶
+¶則皆就之。¶
 導之以禮樂，¶
 以和其氣。¶
-
-
 鄭玄註：¶
 君子愛人，¶
 小人易使。¶
 
-
+# src: ZHONGJING 5.6
+# dating: 4100
 宣君德以弘大其化。¶
-
-<pb:KR1f0014_CHANT_005-7a>¶
 鄭玄註：¶
 稱君德以布德，¶
 敦君化以行化。¶
-
-
 明國法以至於無刑。¶
-
-
 鄭玄註：¶
 章條申而不犯，¶
-刑雖設而當也。¶
+¶刑雖設而當也。¶
 
-<pb:KR1f0014_CHANT_005-8a>¶
+# src: ZHONGJING 5.7
+# dating: 4100
 視君之人，¶
 如觀乎子。¶
-
-
 鄭玄註：¶
 寒者衣之，¶
 饑者食之。¶
-
-
 則人愛之，¶
 如愛其親。¶
-
-<pb:KR1f0014_CHANT_005-9a>¶
 鄭玄註：¶
 民懷其恩，¶
 有同骨肉。¶
 
-
+# src: ZHONGJING 5.8
+# dating: 4100
 蓋守宰之忠也。¶
 《詩》云：¶
 「豈弟君子，¶
-民之父母。」¶
-
-<pb:KR1f0014_CHANT_005-10a>¶
+¶民之父母。」¶
 鄭玄註：¶
 父母愛子，¶
 情莫過焉。¶

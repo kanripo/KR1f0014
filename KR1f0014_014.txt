@@ -1,132 +1,118 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 13
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 14
 
+# src: ZHONGJING 14.1
+# dating: 4100
 ** 辨忠章第十四
-<pb:KR1f0014_CHANT_014-1a>¶
 大哉，¶
 忠之為用也。¶
-
-
 鄭玄註：¶
 用忠以教，¶
 大莫加焉。¶
 
-
+# src: ZHONGJING 14.2
+# dating: 4100
 施之於邇，¶
 則可以保家邦。¶
-
-<pb:KR1f0014_CHANT_014-2a>¶
 鄭玄註：¶
 以有閫域。¶
-
-
 施之於遠，¶
 則可以極天地。¶
-
-
 鄭玄註：¶
-以無空窮。¶
+¶以無空窮。¶
 
-<pb:KR1f0014_CHANT_014-3a>¶
+# src: ZHONGJING 14.3
+# dating: 4100
 故明王為國，¶
 必先辨忠。¶
-
-
 鄭玄註：¶
 為國藉之，¶
 忠者臣節，¶
 不先辨忠，¶
-國將安寄？¶
+¶國將安寄？¶
 
-<pb:KR1f0014_CHANT_014-4a>¶
+# src: ZHONGJING 14.4
+# dating: 4100
 君子之言，¶
 忠而不佞。¶
 小人之言，¶
 佞而似忠而非，¶
 聞之者鮮不惑矣。¶
-
-
 鄭玄註：¶
 忠言逆志，¶
 必求諸道。¶
 佞言順志，¶
-必求諸非道。¶
+¶必求諸非道。¶
 
-<pb:KR1f0014_CHANT_014-5a>¶
+# src: ZHONGJING 14.5
+# dating: 4100
 夫忠而能仁，¶
 則國德彰。¶
-
-
 鄭玄註：¶
 為君撫愛。¶
 
-
+# src: ZHONGJING 14.6
+# dating: 4100
 忠而能知，¶
 則國政舉。¶
 忠而能勇，¶
 則國難清。¶
-
-<pb:KR1f0014_CHANT_014-6a>¶
 鄭玄註：¶
 為君謀忠，¶
 為君果毅。¶
 
-
+# src: ZHONGJING 14.7
+# dating: 4100
 故雖有其能，¶
 必由忠而成也。¶
-
-
 鄭玄註：¶
 忠而有能，¶
-則有功。¶
+¶則有功。¶
 
-<pb:KR1f0014_CHANT_014-7a>¶
+# src: ZHONGJING 14.8
+# dating: 4100
 仁而不忠，¶
 則私其恩。¶
-
-
 鄭玄註：¶
 仁愈多而恩愈深。¶
 
-
+# src: ZHONGJING 14.9
+# dating: 4100
 知而不忠，¶
 則文其詐。¶
-
-<pb:KR1f0014_CHANT_014-8a>¶
 鄭玄註：¶
 知愈多而詐愈密。¶
 
-
+# src: ZHONGJING 14.10
+# dating: 4100
 勇而不忠，¶
 則易其亂。¶
-
-
 鄭玄註：¶
-勇愈多而易其亂。¶
+¶勇愈多而易其亂。¶
 
-<pb:KR1f0014_CHANT_014-9a>¶
+# src: ZHONGJING 14.11
+# dating: 4100
 是雖有其能，¶
 以不忠而敗也。¶
-
-
 鄭玄註：¶
 能而無忠，¶
 則為敗。¶
 
-
+# src: ZHONGJING 14.12
+# dating: 4100
 此三者不可不辨也。¶
 《書》云：¶
 「旌別淑忒。」¶
-其是謂乎！¶
-
-<pb:KR1f0014_CHANT_014-10a>¶
+¶其是謂乎！¶
 鄭玄註：¶
 善惡既別，¶
 任使不謬。¶

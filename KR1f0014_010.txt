@@ -1,87 +1,78 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 9
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 10
 
+# src: ZHONGJING 10.1
+# dating: 4100
 ** 保孝行章第十
-<pb:KR1f0014_CHANT_010-1a>¶
 夫惟孝者，¶
 必貴於忠。¶
-
-
 鄭玄註：¶
 若思孝而忘忠，¶
 猶求福而棄天。¶
 
-
+# src: ZHONGJING 10.2
+# dating: 4100
 忠苟不行，¶
 所率猶非其道。¶
-
-<pb:KR1f0014_CHANT_010-2a>¶
 鄭玄註：¶
 忠不居心，¶
 動皆邪僻。¶
 
-
+# src: ZHONGJING 10.3
+# dating: 4100
 是以忠不及之，¶
 而失其守。¶
-
-
 鄭玄註：¶
 自貽伊罰，¶
-求安可乎？¶
+¶求安可乎？¶
 
-<pb:KR1f0014_CHANT_010-3a>¶
+# src: ZHONGJING 10.4
+# dating: 4100
 匪惟危身，¶
 辱及親也。¶
-
-
 鄭玄註：¶
 既失於忠，¶
 又失於孝。¶
 
-
+# src: ZHONGJING 10.5
+# dating: 4100
 故君子行其孝，¶
 必先以忠。¶
 竭其忠，¶
 則福祿至矣。¶
-
-<pb:KR1f0014_CHANT_010-4a>¶
 鄭玄註：¶
 忠則得福，¶
 祿則榮親。¶
 
-
+# src: ZHONGJING 10.6
+# dating: 4100
 故得盡愛敬之心，¶
 以養其親，¶
 施及於人。¶
-
-
 鄭玄註：¶
 守忠之道，¶
 眾善攸歸，¶
 身安親樂，¶
-得盡其養。¶
-
-<pb:KR1f0014_CHANT_010-5a>¶
+¶得盡其養。¶
 此之謂保孝行也。¶
 
-
+# src: ZHONGJING 10.7
+# dating: 4100
 鄭玄註：¶
 以忠之故，¶
-得保於孝。¶
-
-
+得保於孝。
 《詩》云：¶
 「孝子不匱，¶
-永錫爾類。」¶
-
-<pb:KR1f0014_CHANT_010-6a>¶
+¶永錫爾類。」¶
 鄭玄註：¶
 考叔行孝，¶
 施於莊公。¶

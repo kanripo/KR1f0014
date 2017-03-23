@@ -1,63 +1,54 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 12
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 13
 
+# src: ZHONGJING 13.1
+# dating: 4100
 ** 揚聖章第十三
-<pb:KR1f0014_CHANT_013-1a>¶
 君德聖明，¶
 忠臣以榮。¶
-
-
 鄭玄註：¶
 欣己獲奉斯君。¶
-
-
 君德不足，¶
 忠臣以辱。¶
-
-<pb:KR1f0014_CHANT_013-2a>¶
 鄭玄註：¶
 恥躬不能為臣。¶
 
-
+# src: ZHONGJING 13.2
+# dating: 4100
 不足則補之，¶
 聖明則揚之，¶
 古之道也。¶
-
-
-鄭玄註：¶
+鄭玄註：
 補袞之闕，¶
 揚君之休。¶
 古之忠臣，¶
-則皆然也。¶
-
-<pb:KR1f0014_CHANT_013-3a>¶
+¶則皆然也。¶
 是以虞有德，¶
 咎繇歌之。¶
 文王之道，¶
 周公頌之。¶
 宣王中興，¶
 吉甫詠之。¶
-
-
-鄭玄註：¶
+鄭玄註：
 君上行仁覆之道也，¶
-臣下有贊詠之義也。¶
+¶臣下有贊詠之義也。¶
 
-<pb:KR1f0014_CHANT_013-4a>¶
+# src: ZHONGJING 13.3
+# dating: 4100
 故君子臣於盛明之時，¶
 必揚之。¶
 盛德流滿天下，¶
 傳於後代，¶
 其忠矣夫。¶
-
-
 鄭玄註：¶
 若君有盛德而臣不揚，¶
 使久遠不聞，¶

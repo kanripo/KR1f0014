@@ -1,105 +1,97 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 忠經
-#+DATE: 2016-05-31 17:08:04
-#+PROPERTY: CH_ID CH1a0915
+#+DATE: 2016-08-10 10:18:53
 #+PROPERTY: ID KR1f0014
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 10
+#+PROPERTY: JUAN 18
 #+PROPERTY: CAT 1,儒家
 #+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: CH_ID CH1a0915
 #+PROPERTY: WITNESS chant
-#+PROPERTY: JUAN 11
 
+# src: 11 廣為〔國〕章第十一
+# dating: 4100
 ** 廣為國章第十一
-<pb:KR1f0014_CHANT_011-1a>¶
-廣為國章第十一¶
-明主之為國也，¶
+
+廣為國章第十一明主之為國也，¶
 任於正，¶
 去於邪。¶
-
-
 鄭玄註：¶
 任正則君子道長，¶
-去邪則小人道消。¶
+¶去邪則小人道消。¶
 
-<pb:KR1f0014_CHANT_011-2a>¶
+# src: ZHONGJING 11.2
+# dating: 4100
 邪則不忠，¶
 忠則必正。¶
-
-
 鄭玄註：¶
 忠則不邪，¶
 正則必忠。¶
-
-
 有正然後用其能。¶
 
-<pb:KR1f0014_CHANT_011-3a>¶
+# src: ZHONGJING 11.3
+# dating: 4100
 鄭玄註：¶
 能而無正則邪，¶
 正而有能則忠。¶
 
-
+# src: ZHONGJING 11.4
+# dating: 4100
 是故師保道德，¶
 股肱賢良。¶
-
-
 鄭玄註：¶
 周為保，¶
 召為師，¶
 元為股，¶
-凱為肱。¶
+¶凱為肱。¶
 
-<pb:KR1f0014_CHANT_011-4a>¶
+# src: ZHONGJING 11.5
+# dating: 4100
 內睦以文，¶
 外威以武。¶
-
-
 鄭玄註：¶
 教莫若文，¶
 威莫若武。¶
 
-
+# src: ZHONGJING 11.6
+# dating: 4100
 被服禮樂，¶
 隄防政刑。¶
-
-<pb:KR1f0014_CHANT_011-5a>¶
 鄭玄註：¶
 禮樂、德之則，¶
 不可違躬。¶
 政刑、禮之要，¶
 不可破壞。¶
 
-
+# src: ZHONGJING 11.7
+# dating: 4100
 故得大化興行，¶
 蠻夷率服。¶
-
-<pb:KR1f0014_CHANT_011-6a>¶
 鄭玄註：¶
 化行文備，¶
 夷服武偃。¶
 
-
+# src: ZHONGJING 11.8
+# dating: 4100
 人臣和悅，¶
 邦國平康。¶
-
-
 鄭玄註：¶
-禮樂善而政刑清也。¶
+¶禮樂善而政刑清也。¶
 
-<pb:KR1f0014_CHANT_011-7a>¶
+# src: ZHONGJING 11.9
+# dating: 4100
 此君能任臣，¶
 下忠上信之所致也。¶
-
-
 鄭玄註：¶
 臣在忠於君，¶
 君在委於臣。¶
 
-
+# src: ZHONGJING 11.10
+# dating: 4100
 《詩》云：¶
 「濟濟多士，¶
-文王以寧。」¶
-
-<pb:KR1f0014_CHANT_011-8a>¶
+¶文王以寧。」¶
 鄭玄註：¶
 成廈、非一木之才，¶
 為國、資庶臣之力。¶
